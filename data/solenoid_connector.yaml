@@ -1,0 +1,8 @@
+path: ./datasets/Front_all
+train: images/train
+val: images/val
+test:
+
+# classes
+nc: 4
+names: ["Aw","Mc","Ip","Pp"]

@@ -1,0 +1,8 @@
+path: ./datasets/Front_all
+train: images/train
+val: images/val
+test:
+
+# classes
+nc: 4
+names: ["flying_wires","no_copper","stick_defect","stick_good"]
